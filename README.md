@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do DEVJoaoVictorRC 😁
+## Bem-vindo(a) ao perfil do JoaoVictorRC 😁
 
  <div>
    <a href="https://github.com/DEVJoaoVictorRC">
